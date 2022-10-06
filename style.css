@@ -452,7 +452,7 @@
         margin-bottom: 45px;
         margin-right: 35px;
 
-        
+
     }
 
     .div-yt {
@@ -462,7 +462,7 @@
 
     .img-yt {
         width: 150px;
-        margin-left: 95px;
+        margin-left: 115px;
         text-align: center;
 
     }
@@ -532,7 +532,7 @@
     .section-co1 {
         width: 80%;
         height: auto;
-        display: flex;
+        display: list-item;
         justify-content: center;
 
     }
@@ -544,11 +544,14 @@
     }
 
     .photo-co1 {
-        width: 40%;
+        width: 150px;
         height: auto;
         margin-left: 100px;
-        margin-bottom: 65px;
+        margin-bottom: 35px;
 
+    }
+    .div-p1 {
+        margin-left: 45px;
     }
 
     .section-co2 {
